@@ -1,4 +1,4 @@
 - 👋 **Hi, I’m Trenton Hill**
 - 👀 Intrested in Bypassing the Lastest Anti-Cheat!
 - 🌱 Currently Learning how to use the Windows Kernal to my advantage.
-- 📫 Contact Me at TrentonHillDev@Gmail.com or +1-989-619-8484
+- 📫 Contact Me at TrentonHillDev@Gmail.com or +1-989-619-8484 & Sm0keyDaYoungOG#0001
