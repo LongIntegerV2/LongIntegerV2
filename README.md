@@ -1,7 +1,5 @@
 <div align="center">
 
-# ⚡ TRENT'S TUNING
-
 ### Custom Calibration • Reverse Engineering • Performance Development
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=FF4D00&center=true&vCenter=true&width=900&lines=Built+Around+The+Vehicle+-+Not+A+Generic+File;Custom+Ford+%2F+GM+%2F+Dodge+Calibration;Transmission+Strategy+Development;OEM+ECU+Reverse+Engineering;SCT+%7C+HP+Tuners+%7C+EZLYNK;Real+Data+Logging+%26+Real+Revisions" />
